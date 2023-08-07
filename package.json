@@ -10,6 +10,7 @@
   "license": "GPL-3.0",
   "dependencies": {
     "@azure/communication-email": "^1.0.0",
+    "@azure/identity": "^3.2.4",
     "dotenv": "^16.0.3",
     "mailparser": "^3.6.3",
     "smtp-server": "^3.11.0"
