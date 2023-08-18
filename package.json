@@ -1,6 +1,6 @@
 {
   "name": "azurecommunicationservicessmtpforwarder",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "description": "Accepts SMTP requests and converts them to requests for azure communication services",
   "main": "app.js",
   "scripts": {
